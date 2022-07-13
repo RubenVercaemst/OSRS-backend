@@ -2,7 +2,7 @@
   <h3 align="center">OldSchool RuneScape web app</h3>
 
   <p align="center">
-    This project is currently being worked on.
+    This project is currently on hold.
   </p>
 </p>
 
@@ -13,3 +13,5 @@ The backend for a web app mimicking parts of the popular MMORPG OldSchool RuneSc
 ### Built With
 
 * .NET 6 Web API
+* Redis
+* SQL Server
